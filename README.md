@@ -4,6 +4,8 @@
 
 This project is based on the work by [zumuya/Expogesture](https://github.com) and has been significantly updated and fixed to ensure full compatibility with **macOS Big Sur through Sequoia** and **Apple Silicon (M1/M2/M3/M4)**.
 
+<img width="694" height="537" alt="" src="https://github.com/user-attachments/assets/ccc3bb0c-302d-4a19-ac23-c76180e44b2e" />
+
 ## Prerequisites (Before Building)
 
 To successfully compile and run this application on modern Macs, you need the following:
