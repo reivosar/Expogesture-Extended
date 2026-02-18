@@ -58,7 +58,7 @@ codesign --force --deep --sign - Expogesture.app
 
 ## Credits & License
 
-- **Original Developer**: [NAKAHASHI Ichiro](http://ichiro.nnip.org) (Official Site)
+- **Original Developer**: [Expogesture](http://ichiro.nnip.org/osx/Expogesture/index.html) (Official Site)
 - **Base Modernization**: [zumuya/Expogesture](https://github.com)
 - **Extended Fixes & Maintenance**: [reivosar/Expogesture-Extended](https://github.com/reivosar/Expogesture-Extended)
 
