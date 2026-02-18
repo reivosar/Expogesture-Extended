@@ -59,7 +59,7 @@ codesign --force --deep --sign - Expogesture.app
 ## Credits & License
 
 - **Original Developer**: [Expogesture](http://ichiro.nnip.org/osx/Expogesture/index.html) (Official Site)
-- **Base Modernization**: [zumuya/Expogesture](https://github.com)
+- **Base Modernization**: [zumuya/Expogesture](https://github.com/zumuya/Expogesture)
 - **Extended Fixes & Maintenance**: [reivosar/Expogesture-Extended](https://github.com/reivosar/Expogesture-Extended)
 
 Licensed under **GPL v2**, following the original license terms.
